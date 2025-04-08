@@ -12,6 +12,8 @@ You will requre 1) all the correct programs, 2) all the listed R packages 3) the
 
 Once all of the programs are installed, open RStudio and run the below package install scripts. It's best to run it line by line instead of all at once in case there are errors.
 
+To install the necessary libraries, you can either copy, paste, and run the code below in your RStudio instance, or download and run [this setup file](/Resources/Setup.R), which contains the same code.
+
 <b>Note:</b> When running through the installs, you may encounter a prompt asking you to upgrade dependent packages. Choosing Option `3: None`, works in most situations and will prevent upgrades of packages you weren't explicitly looking to upgrade.
 
 ### SDM Workshop Requirements
