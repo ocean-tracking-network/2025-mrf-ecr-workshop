@@ -47,7 +47,17 @@ dir.create('./Data/bio-oracle/')
 
 ```
 
+### SSF Workshop Requirements
 
+```r
+install.packages("terra")
+install.packages("amt")
+install.packages("mgcv")
+install.packages("gratia")
+install.packages("ggplot2")
+install.packages("CircStats")
+install.packages("cowplot")
+```
 
 
 
