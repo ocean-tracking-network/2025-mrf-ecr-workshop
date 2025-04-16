@@ -7,12 +7,4 @@ questions:
 
 This page hosts links to the resources and repositories for each of the ECR workshop sessions. 
 
-## SDM Workshop - Reid Steele and Esteban Salazar
-
-The powerpoint presentation for the SDM Workshop can be found at [this link](/Resources/SDMs_workshop_merged.pptx). 
-
-The repository containing the code for the SDM workshop can be found at [this link](https://github.com/Future-of-Marine-Ecosystems/fome_otn_sdm).
-
-## SSF Workshop - Natasha Klappenstein
-
-The Zip archive containing both data and code for the SSF workshop can be found at [this link](/Resources/SSF_data_and_code.zip).
+Links to download code will be available on the page that corresponds to your workshop stream. These links may be to a Github repository or a ZIP archive hosted on this site. If you are not comfortable using Git as a way to access the code, instructions for downloading a Github repository as a ZIP Archive are available on this site's [setup page](/setup.html).

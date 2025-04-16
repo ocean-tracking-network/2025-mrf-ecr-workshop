@@ -12,7 +12,12 @@ You will requre 1) all the correct programs, 2) all the listed R packages 3) the
 
 Once all of the programs are installed, open RStudio and run the below package install scripts. It's best to run it line by line instead of all at once in case there are errors.
 
-To install the necessary libraries, you can either copy, paste, and run the code below in your RStudio instance, or download and run [this setup file](/Resources/Setup.R), which contains the same code.
+To install the necessary libraries, you can either copy, paste, and run the code below in your RStudio instance, or download and run one of the following setup files:
+
+- [Setup file for SDM Workshop](/Resources/sdm-setup.R).
+- [Setup file for SSF Workshop](/Resources/ssf-setup.R).
+
+The code in the above files is the same as the code below.
 
 <b>Note:</b> When running through the installs, you may encounter a prompt asking you to upgrade dependent packages. Choosing Option `3: None`, works in most situations and will prevent upgrades of packages you weren't explicitly looking to upgrade.
 
@@ -62,7 +67,15 @@ install.packages("CircStats")
 install.packages("cowplot")
 ```
 
+### Downloading Git Repositories as ZIP Archives
 
+If you are unfamiliar with using Git to download and access code, it is possible to instead download the code as a ZIP archive. This will prevent you from using any of Git's version control functionality, but you will otherwise have all of the code available once the archive is extracted. The steps are as follows:
+
+1. Click on the link to the GitHub repository's homepage.
+2. At the top of the repository's file list there will be a bright green button reading `<> Code`. Click this button.
+3. In the subsequent dropdown, click on "Download ZIP."
+
+Once the download completes, you will be able to extract the files with the utility of your choice. 
 
 
 
