@@ -4,7 +4,7 @@ title: Setup
 
 ## Requirements
 
-You will requre 1) all the correct programs, 2) all the listed R packages 3) the dataset and code. Instructions for all these are below.
+You will require 1) all the correct programs, 2) all the listed R packages 3) the dataset and code. Instructions for all these are below.
 
 
 ### Please see the attached document for program instructions: - [Program Install Instructions.docx](/Resources/install_instructions.docx)
