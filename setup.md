@@ -4,10 +4,10 @@ title: Setup
 
 ## Requirements
 
-You will require 1) all the correct programs, 2) all the listed R packages 3) the dataset and code. Instructions for all these are below.
+You will require 1) all the correct programs 2) all the listed R packages 3) the dataset and code. Instructions for all these are below.
 
 
-### Please see the attached document for program instructions: - [Program Install Instructions.docx](/Resources/install_instructions.docx)
+### Please see the attached document for program instructions: [Program Install Instructions.docx](/Resources/install_instructions.docx)
 -  R version: 3.6.x or newer (recommend 4.0.x) and RStudio
 
 Once all of the programs are installed, open RStudio and run the below package install scripts. It's best to run it line by line instead of all at once in case there are errors.
